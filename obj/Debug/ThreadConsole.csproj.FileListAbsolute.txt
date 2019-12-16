@@ -1,0 +1,6 @@
+D:\30_Prototype\03_WinForm\ThreadConsole\bin\Debug\ThreadConsole.exe.config
+D:\30_Prototype\03_WinForm\ThreadConsole\bin\Debug\ThreadConsole.exe
+D:\30_Prototype\03_WinForm\ThreadConsole\bin\Debug\ThreadConsole.pdb
+D:\30_Prototype\03_WinForm\ThreadConsole\obj\Debug\ThreadConsole.exe
+D:\30_Prototype\03_WinForm\ThreadConsole\obj\Debug\ThreadConsole.pdb
+D:\30_Prototype\03_WinForm\ThreadConsole\obj\Debug\ThreadConsole.csprojAssemblyReference.cache
